@@ -1,0 +1,872 @@
+[09-Oct-2025 22:54:02 Europe/Berlin] DB bağlantı hatası: SQLSTATE[HY000] [14] unable to open database file
+[09-Oct-2025 23:06:34 Europe/Berlin] DB bağlantı hatası: SQLSTATE[HY000] [14] unable to open database file
+[09-Oct-2025 23:30:02 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: users in C:\xampp\htdocs\bus_ticket_system\views\register.php:27
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\register.php(27): PDO->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\register.php on line 27
+[09-Oct-2025 23:31:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: users in C:\xampp\htdocs\bus_ticket_system\views\register.php:27
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\register.php(27): PDO->prepare('SELECT id FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\register.php on line 27
+[10-Oct-2025 11:12:32 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: users in C:\xampp\htdocs\bus_ticket_system\views\login.php:16
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\login.php(16): PDO->prepare('SELECT id, full...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\login.php on line 16
+[10-Oct-2025 11:12:44 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: users in C:\xampp\htdocs\bus_ticket_system\views\login.php:16
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\login.php(16): PDO->prepare('SELECT id, full...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\login.php on line 16
+[10-Oct-2025 11:12:46 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: users in C:\xampp\htdocs\bus_ticket_system\views\login.php:16
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\login.php(16): PDO->prepare('SELECT id, full...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\login.php on line 16
+[10-Oct-2025 11:12:47 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: users in C:\xampp\htdocs\bus_ticket_system\views\login.php:16
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\login.php(16): PDO->prepare('SELECT id, full...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\login.php on line 16
+[10-Oct-2025 11:12:47 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: users in C:\xampp\htdocs\bus_ticket_system\views\login.php:16
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\login.php(16): PDO->prepare('SELECT id, full...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\login.php on line 16
+[10-Oct-2025 13:22:47 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:24:41 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:24:43 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:25:43 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:26:28 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:27:52 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:27:54 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:27:59 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:28:00 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:35:37 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:35:38 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:35:47 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:35:50 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:35:51 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:41:03 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:41:04 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:41:05 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:41:09 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:44:58 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 13:44:59 Europe/Berlin] PHP Warning:  Undefined array key "full_name" in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 7
+[10-Oct-2025 16:44:01 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 11
+[10-Oct-2025 16:44:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\bus_ticket_system\views\home.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 11
+[10-Oct-2025 16:44:07 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 11
+[10-Oct-2025 16:44:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\bus_ticket_system\views\home.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 11
+[10-Oct-2025 16:47:36 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 11
+[10-Oct-2025 16:47:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\bus_ticket_system\views\home.php:11
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 11
+[14-Oct-2025 11:40:03 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 11:46:36 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 11:59:43 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 11:59:46 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 11:59:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 11:59:49 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 12:00:33 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 12:00:40 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 12:00:42 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 12:06:53 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 13:47:56 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 13:53:16 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 14:05:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 14:05:24 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 14:32:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[14-Oct-2025 15:42:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 15:42:06 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 15:42:09 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 15:42:11 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 15:42:12 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 15:42:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 15:47:30 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:154
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(154): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 154
+[14-Oct-2025 15:47:39 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:154
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(154): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 154
+[14-Oct-2025 16:06:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 16:06:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 16:06:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 16:06:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 16:06:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 16:06:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 16:07:36 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such table: Users in C:\xampp\htdocs\bus_ticket_system\views\home.php:155
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(155): PDO->prepare('SELECT role FRO...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 155
+[14-Oct-2025 16:20:04 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:20:11 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:20:13 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:20:17 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:24:39 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:24:40 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:24:47 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:24:48 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:24:50 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:25:02 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:26:59 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:26:59 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:27:38 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:27:39 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:27:42 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:27:43 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:27:52 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[14-Oct-2025 16:27:55 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:27:57 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:27:58 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:27:58 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:28:01 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:28:02 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 11
+[14-Oct-2025 16:28:04 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:33:56 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:33:57 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 26
+[14-Oct-2025 16:34:15 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 26
+[14-Oct-2025 16:50:23 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:50:25 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:50:29 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:50:32 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:50:34 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:52:13 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:52:13 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:52:20 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:52:21 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:52:22 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:52:23 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:52:23 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:52:24 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:52:25 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:53:44 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:53:46 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:53:47 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:59:36 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 16:59:40 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:59:45 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 16:59:47 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:01:05 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 17:01:10 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 17:01:54 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 17:02:10 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 17:02:11 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:02:14 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:02:14 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:02:22 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:02:22 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:02:44 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:02:44 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:04:02 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:04:08 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:04:08 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:04:08 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:04:30 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:04:36 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:04:36 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:04:36 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:05:32 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:05:34 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:05:34 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:05:34 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:06:29 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:06:32 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:06:35 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:06:35 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:06:35 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:06:37 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:06:37 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:06:37 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 31
+[14-Oct-2025 17:07:26 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:07:28 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:07:28 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:07:28 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:35 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:35 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:41 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:41 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:42 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:42 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:43 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:43 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:44 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:44 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:44 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:44 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:45 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:45 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:46 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:46 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:47 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:47 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:47 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:47 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:48 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:48 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:48 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 17:09:50 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 17:09:55 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[14-Oct-2025 17:09:56 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:56 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:09:58 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:58 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:09:58 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:09:58 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:10:03 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:10:03 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:20:51 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:20:51 Europe/Berlin] Silme işlemi için alınan trip_id: 3b79af53-1e0b-4ce3-946f-35b996d20c15
+[14-Oct-2025 17:20:51 Europe/Berlin] Silme işlemi başarısız: trip_id veya company_id eksik.
+[14-Oct-2025 17:20:51 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:20:51 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:22:49 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:22:49 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:22:52 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:22:52 Europe/Berlin] Silme işlemi için alınan trip_id: 3b79af53-1e0b-4ce3-946f-35b996d20c15
+[14-Oct-2025 17:22:52 Europe/Berlin] Silme işlemi için alınan company_id: 6eccc472-be17-4490-8877-85e17be00e44
+[14-Oct-2025 17:22:52 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:22:52 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:27:19 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:27:19 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:27:22 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:27:22 Europe/Berlin] Silme işlemi için alınan trip_id: 3b79af53-1e0b-4ce3-946f-35b996d20c15
+[14-Oct-2025 17:27:22 Europe/Berlin] Silme işlemi için alınan company_id: 6eccc472-be17-4490-8877-85e17be00e44
+[14-Oct-2025 17:27:22 Europe/Berlin] Silme işlemi başarılı: trip_id = 3b79af53-1e0b-4ce3-946f-35b996d20c15, company_id = 6eccc472-be17-4490-8877-85e17be00e44
+[14-Oct-2025 17:27:22 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 36
+[14-Oct-2025 17:27:22 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:28:45 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:28:47 Europe/Berlin] Silme işlemi için alınan trip_id: 3b79af53-1e0b-4ce3-946f-35b996d20c15
+[14-Oct-2025 17:28:47 Europe/Berlin] Silme işlemi için alınan company_id: 6eccc472-be17-4490-8877-85e17be00e44
+[14-Oct-2025 17:28:47 Europe/Berlin] Silme işlemi başarılı: trip_id = 3b79af53-1e0b-4ce3-946f-35b996d20c15, company_id = 6eccc472-be17-4490-8877-85e17be00e44
+[14-Oct-2025 17:28:47 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:29:58 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:32:29 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:32:31 Europe/Berlin] Silme işlemi için alınan trip_id: 3b79af53-1e0b-4ce3-946f-35b996d20c15
+[14-Oct-2025 17:32:31 Europe/Berlin] Silme işlemi için alınan company_id: 6eccc472-be17-4490-8877-85e17be00e44
+[14-Oct-2025 17:32:31 Europe/Berlin] Silme işlemi başarısız: Hiçbir kayıt silinmedi. trip_id = 3b79af53-1e0b-4ce3-946f-35b996d20c15, company_id = 6eccc472-be17-4490-8877-85e17be00e44
+[14-Oct-2025 17:32:31 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[14-Oct-2025 17:35:11 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[16-Oct-2025 10:23:15 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[16-Oct-2025 10:23:45 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[16-Oct-2025 10:23:46 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[22-Oct-2025 18:01:22 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[22-Oct-2025 18:01:29 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[22-Oct-2025 18:02:10 Europe/Berlin] Silme işlemi için alınan trip_id: 3b79af53-1e0b-4ce3-946f-35b996d20c15
+[22-Oct-2025 18:02:10 Europe/Berlin] Silme işlemi için alınan company_id: 6eccc472-be17-4490-8877-85e17be00e44
+[22-Oct-2025 18:02:10 Europe/Berlin] Silme işlemi başarısız: Hiçbir kayıt silinmedi. trip_id = 3b79af53-1e0b-4ce3-946f-35b996d20c15, company_id = 6eccc472-be17-4490-8877-85e17be00e44
+[22-Oct-2025 18:02:10 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[22-Oct-2025 18:02:47 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[22-Oct-2025 18:03:18 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[22-Oct-2025 18:03:19 Europe/Berlin] Kullanıcı Verisi: Array
+(
+    [id] => 3b79af53-1e0b-4ce3-946f-35b996d20c15
+    [full_name] => Kamil_Koç Admin
+    [email] => kamilkocadmin@example.com
+    [role] => company
+    [password] => $2y$10$tNWx2QbdFRV10tOHaEA2V.qt98JFqDqUonBEJpTJeFFAYbR/kuI5.
+    [balance] => 800
+    [created_at] => 2025-10-14 16:29:38
+    [company_id] => 6eccc472-be17-4490-8877-85e17be00e44
+)
+
+[22-Oct-2025 18:26:31 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[22-Oct-2025 18:27:48 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[22-Oct-2025 18:30:03 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 11
+[22-Oct-2025 18:35:10 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 21
+[22-Oct-2025 18:35:12 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: trip_date in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:95
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(95): PDO->prepare('SELECT * FROM T...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 95
+[22-Oct-2025 18:35:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: trip_date in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:95
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(95): PDO->prepare('SELECT * FROM T...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 95
+[22-Oct-2025 18:35:32 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: trip_date in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:95
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(95): PDO->prepare('SELECT * FROM T...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 95
+[22-Oct-2025 18:36:56 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: expiry_date in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:100
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(100): PDO->prepare('SELECT * FROM C...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 100
+[22-Oct-2025 18:51:12 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:110
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(110): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 110
+[22-Oct-2025 19:43:10 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 26
+[22-Oct-2025 19:43:13 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 26
+[22-Oct-2025 19:44:19 Europe/Berlin] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 49
+[22-Oct-2025 19:44:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 49
+[22-Oct-2025 19:44:50 Europe/Berlin] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 49
+[22-Oct-2025 19:44:50 Europe/Berlin] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 49
+[22-Oct-2025 19:45:58 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[22-Oct-2025 19:46:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[22-Oct-2025 21:01:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: t.passenger_gender in C:\xampp\htdocs\bus_ticket_system\views\home.php:109
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\views\home.php(109): PDO->prepare('\r\n            S...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\views\home.php on line 109
+[22-Oct-2025 21:18:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: expiry_date in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:100
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(100): PDO->prepare('SELECT * FROM C...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 100
+[22-Oct-2025 21:29:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: expiry_date in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:100
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(100): PDO->prepare('SELECT * FROM C...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 100
+[22-Oct-2025 21:29:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: expiry_date in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:100
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(100): PDO->prepare('SELECT * FROM C...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 100
+[22-Oct-2025 21:40:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: user_id in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:27
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(27): PDO->prepare('SELECT id, comp...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 27
+[22-Oct-2025 21:40:14 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: user_id in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:27
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(27): PDO->prepare('SELECT id, comp...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 27
+[22-Oct-2025 21:42:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: user_id in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php:25
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php(25): PDO->prepare('SELECT id, comp...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 25
+[22-Oct-2025 21:43:01 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1 no such column: user_id in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php:25
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php(25): PDO->prepare('SELECT id, comp...')
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\company_dashboard.php on line 25
+[22-Oct-2025 22:20:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 5 database is locked in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:65
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 65
+[22-Oct-2025 22:21:51 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 5 database is locked in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:65
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 65
+[22-Oct-2025 22:25:09 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 24
+[22-Oct-2025 22:27:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function h() in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:160
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 160
+[22-Oct-2025 22:29:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function h() in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:160
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 160
+[22-Oct-2025 22:29:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function h() in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php:160
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 160
+[22-Oct-2025 22:50:02 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 5 database is locked in C:\xampp\htdocs\bus_ticket_system\company\edit.php:88
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\edit.php(88): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\edit.php on line 88
+[22-Oct-2025 22:51:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 5 database is locked in C:\xampp\htdocs\bus_ticket_system\company\edit.php:59
+Stack trace:
+#0 C:\xampp\htdocs\bus_ticket_system\company\edit.php(59): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\bus_ticket_system\company\edit.php on line 59
+[23-Oct-2025 14:18:00 Europe/Berlin] PHP Warning:  Undefined array key "company_id" in C:\xampp\htdocs\bus_ticket_system\company\manage_trips.php on line 26
